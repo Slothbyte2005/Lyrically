@@ -1,2 +1,2 @@
-# Lyrically
-lyrics generating chatbot
+Lyrically,
+is a chatbot designed to provide song lyrics and YouTube video links for any song or artist you mention. It functions as an interactive assistant that allows users to simply type the name of a song or artist, and in return, it provides the lyrics to the song and links to the corresponding YouTube video. This makes it a great tool for music lovers who want quick access to song lyrics and music videos. Whether you're looking for the latest hit or a classic track, Lyrically makes discovering and enjoying music easier with its seamless and intuitive interface
